@@ -2,7 +2,7 @@
 
 Exemplos para projeto final do módulo de Introdução ao Desenvolvimento com JS - SENAC RS 2023
 
-## Trabalho final (sugestão)
+## Trabalho final (sugestão) - Ok. Todos já fizeram. Maravilha! Parabéns!!
 
 [Cadastro Hemocentro](https://satisfying-trust-330.notion.site/Trabalho-Final-Hemocentro-ea4d33e0d79248a5826c3fae64942a85)
 
