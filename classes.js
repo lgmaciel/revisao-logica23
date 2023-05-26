@@ -1,8 +1,9 @@
 class Doador {
-    #_nome = '';
-    #_tipo = '';
-    #_idade=0;
-    #_dataUltimaDoacao='';
+    #_nome;
+    #_tipo;
+    #_idade;
+    #_dataUltimaDoacao;
+
 
     constructor(nome, idade, tipo, dataUltimaDoacao) {
         this.#_nome = nome;
